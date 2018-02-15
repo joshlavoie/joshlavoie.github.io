@@ -1,0 +1,9 @@
+title{.solid {border-style: solid;} }
+body{text-align:center;
+	background: tan;
+	color: Black;
+	font-size: 24pt;
+	font-family: 'Oswald', sans-serif;
+}
+
+table, th, td { border: 1px solid black; border-collapse: collapse }
